@@ -1,5 +1,5 @@
 # Katas
-Ejercicios del  Propedútico de Python para Launch X - Innovacción Virtual.
+Katas del  Propedútico de Python para Launch X - Innovacción Virtual.
 
 Autor: Orihuela Monroy Usiel
 
